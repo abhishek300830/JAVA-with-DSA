@@ -1,5 +1,13 @@
 package Pattern_Questions;
 // print a hollow Rectangles
+/*
+
+*****
+*   *
+*   *
+*****
+
+*/
 public class HollowRectangle {
     public static void main(String[] args) {
         int n=4;
