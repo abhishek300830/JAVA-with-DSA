@@ -2,7 +2,7 @@ package HomeWork;
 
 import java.util.Scanner;
 
-public class HW_Lecture_5_Hollow_Rhombus {
+public class HW_Hollow_Rhombus {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the value of N : ");

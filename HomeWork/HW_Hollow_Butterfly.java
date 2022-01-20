@@ -1,6 +1,6 @@
 package HomeWork;
 import java.util.*;
-public class HW_Lecture_5_Hollow_Butterfly {
+public class HW_Hollow_Butterfly {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Want to Print Hollow Butterfly ...");
