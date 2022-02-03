@@ -1,4 +1,4 @@
-package Pattern_Questions;
+package Pattern_Problems.Pattern_Questions;
 // print a hollow Rectangles
 /*
 

@@ -1,4 +1,4 @@
-package Pattern_Questions;
+package Pattern_Problems.Pattern_Questions;
  // inverted half pyramid rotated by 180 degree
  /*
 

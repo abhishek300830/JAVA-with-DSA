@@ -1,4 +1,4 @@
-package Advanced_Pattern_Questions;
+package Pattern_Problems.Advanced_Pattern_Questions;
 import java.util.Scanner;
 /*
 

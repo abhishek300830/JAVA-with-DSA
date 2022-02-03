@@ -10,14 +10,12 @@ class c implements A,B{  // this is Multiple inheritance
 
     @Override
     public void displayB() {
-        // TODO Auto-generated method stub
         System.out.println("this is display B");
         
     }
 
     @Override
     public void displayA() {
-        // TODO Auto-generated method stub
         System.out.println("This is Display A");
         
     }

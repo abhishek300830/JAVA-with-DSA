@@ -1,4 +1,4 @@
-package Pattern_Questions;
+package Pattern_Problems.Pattern_Questions;
 // creating the rectangle pattern from stars of width 5 and height 4.
 /*
 
