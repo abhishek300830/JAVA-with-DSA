@@ -1,5 +1,5 @@
 package Concepts.Recursion.Simple_Recursion;
-// calculate x^n (stack height = n ) using recursion
+// calculate x^n (stack height = n ) using recursion (for stack height x^n = x*x^n-1 )
 
 public class Calculate_X_power_N_Using_Recursion {
     public static int calculatePower(int x,int n){
